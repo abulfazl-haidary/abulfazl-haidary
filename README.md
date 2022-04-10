@@ -1,8 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/> -->
-<img align="right" src="githubProfile.png" height="800"/>
-</br>
+<img src="githubProfile.png" height="600" width="100%"/>
 
 
 
