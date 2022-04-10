@@ -1,7 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/>
-<img align="right" src="MacBook Pro 16_ -1.png" width="300" height="300"/>
+<!-- <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/> -->
+<img align="right" src="githubProfile.png" width="300" height="300"/>
 </br>
 
 
